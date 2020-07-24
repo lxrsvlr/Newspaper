@@ -34,7 +34,7 @@
 
 @font-face {
     font-family: 'OldLondon';
-    src: url("fonts/OldLondon/OldLondon.ttf"), local('OldLondon');
+    src: url("OldLondon.ttf"), local('OldLondon');
 }
 
 body
